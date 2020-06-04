@@ -9,6 +9,6 @@ Dado el estado de pandemía en el que nos encontramos, se deicidio realizar un p
 ## ¿Cómo utilizar Awesome Table?
 Para utilizar la aplicación en Google Drive, primero se instalar el add-on que se encuentra en el marketplace 
 
-<img src="imagenes/vista-marketplace.png" width=600 >
+<img src="Imagenes/vista-marketplace.png" width=600 >
 
 
