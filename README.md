@@ -21,7 +21,7 @@ Una vez instalado el plugin, para poder utilizarlo se se dirigen a Complementos>
  * Especificado: La dirección deseada ya se encuentra disponible en una sola columna, es decir, la direccón completa en una celda ( ejemplo "Vicuña Mackenna 3939 San Joaquin Chile ").
  * Generada: Presioando en "Are your addresses in multiple columns?" le permitirá poner los campos de la dirección que desea en el orden en que se van agregando.
  
- El formato de la dirección, suele ser <Street + Number>< City><Country>, mientras más especifica sea la dirección más exacta será la busqueda.
+ El formato de la dirección, suele ser <Street + Number>< City> <Country>, mientras más especifica sea la dirección más exacta será la busqueda.
 
 <p align="center"><img src="Imagenes/vista_addon.png" width=600 ></p>
 
