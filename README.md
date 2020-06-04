@@ -40,7 +40,7 @@ Antes de ir a la página de Awesome Table para ver el resultado, para obtener un
 
 Si se desea mostrar información al momento de hacer click en el marcador, se puede utilizar:
 * MapsTooltip: Permitemostrar la información al hacer click en el marcador.
-* ToolTip: Permite crear un cuadro con información al hacer click, este keyword utiliza HTML para crear la etiqueta o se puede crear mediante el boton "Custimize Tooltip" el cual agrega el campo junto con un nombre esto generará una hoja de cálculo oculta, la cual tendra en la celda A1 el campo que utilizará la etiqueta y en B1 la etiqueta escrita como HTML.
+* Tooltip: Permite crear un cuadro con información al hacer click, este keyword utiliza HTML para crear la etiqueta o se puede crear mediante el boton "Custimize Tooltip" el cual agrega el campo junto con un nombre esto generará una hoja de cálculo oculta, la cual tendra en la celda A1 el campo que utilizará la etiqueta y en B1 la etiqueta escrita como HTML.
 
 Al cargar la aplicación de Awesome Table mostrará el mapa con la tabla de datos debajo de él, si se crearon las etiquetas y no se pueden visualizar entonces se va a edit > Advanced Parameters y en Select a Template Sheet se busca la hoja que tiene la etiqueta creada y se colocan las celdas.
 
