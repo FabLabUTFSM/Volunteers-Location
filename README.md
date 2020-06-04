@@ -48,4 +48,4 @@ Al cargar la aplicación de Awesome Table mostrará el mapa con la tabla de dato
 
 Una vez que se encuentre todo listo, se presiona Publish el cual le entregará distintas opciones para publicar, la primera es con una url para acceder directamente ( si el archivo tiene permisos entonces las personas que accedan a este deberan solicitarlo", el segundo es para poder colocarlo en documento HTML con iframe y el tercero es utilizando Javascript y HTML para poder mostrarlo en una pagina web o en HTML si se desea. 
 
-<p align="center"><img src="Imagenes/vista-públish.png" width=600 ></p>
+<p align="center"><img src="Imagenes/vista-publish.png" width=600 ></p>
